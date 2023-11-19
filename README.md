@@ -2,6 +2,7 @@ This is a recipe app where the user can search up food in the search bar, choose
 
 Here's how the app looks like: 
 ![Image of Recipe App](RecipeAppImg.png)
+![Second Image of Recipe App](RecipeImg2.png)
 
 ## Available Scripts
 
