@@ -6,8 +6,9 @@ with different dietary restrictions.
 Once you click on a certain dish, the app will provide instructions
 on how to make the dish as well as the ingredients needed to make the dish.
 
-In order to run this website, the spoonacular API was used (which has a limit of 150 requests per day for free).
-```
+In order to run this website, the spoonacular API was used
+(which has a limit of 150 requests per day for free).
+
 
 Here's how the app looks like: 
 ![Image of Recipe App](RecipeAppImg.png)
@@ -27,6 +28,7 @@ You may also see any lint errors in the console.
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
+This section has moved here:
+[https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```
 
