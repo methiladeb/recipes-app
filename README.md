@@ -1,7 +1,8 @@
 ```
 This is a recipe app where the user can search up food in the search bar,
 choose betweem four cuisines (American, Italian, Mexican, Asian), and choose foods
-with different dietary restrictions.
+with different dietary restrictions (Paleo, Vegan, Vegetarian, Ketogenic).
+The app also shows recommended picks for the user.
 
 Once you click on a certain dish, the app will provide instructions
 on how to make the dish as well as the ingredients needed to make the dish.
