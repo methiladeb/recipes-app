@@ -1,7 +1,10 @@
 This is a recipe app where the user can search up food in the search bar, choose betweem four cuisines (American, Italian, Mexican, Asian), and choose foods with different dietary restrictions. Once you click on a certain dish, the app will provide instructions on how to make the dish as well as the ingredients needed to make the dish. In order to run this website, the spoonacular API was used (which has a limit of 150 requests per day for free).
 
 Here's a demo of the app: 
-![Recipe App](Recipe App Demo.mp4)
+<video width="320" height="240" controls>
+  <source src="Recipe App Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Available Scripts
 
